@@ -38,3 +38,6 @@ const byte potvcc = A2; // set to vcc
 const float gainmin = 0.0;
 const float gainmax = 0.05;
 ```
+
+
+![alt text](https://github.com/silver13/plane_gyro/img/gyro_arduino.jpg "img")
