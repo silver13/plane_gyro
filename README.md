@@ -40,4 +40,4 @@ const float gainmax = 0.05;
 ```
 
 
-![alt text](https://github.com/silver13/plane_gyro/img/gyro_arduino.jpg "img")
+![alt text](https://github.com/silver13/plane_gyro/blob/master/img/gyro_arduino.jpg "img")
