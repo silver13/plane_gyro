@@ -9,6 +9,7 @@ Requirements:
 * mpu 6050 gyro
 * potentiometer for gain ( 1k - 10k)
 * power 3.3 - 5v
+* servo signal 1000 - 2000 uS
 
 # Connections:
 
