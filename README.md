@@ -22,13 +22,13 @@ const int gyrognd = 8;  // zero disables
 const int gyrovcc = 9;  // zero disables
 ```
 
-The servo output pin can be any , set to 11
+The servo output pin can be any , set to pin 11
 
 ```arduino
 const int servopin = 11;
 ```
 
-The servo input pin can be only A2 ( default)  or A3 as it uses interrupts
+The servo input pin can be only pin 2 ( default)  or pin 3 as it uses interrupts
 
 The potentiometer can be also any pin, the gain limits can also be set
 
